@@ -70,3 +70,19 @@ Open [http://localhost:3000](http://localhost:3000) to see the result.
 ## Submission Details
 - **Objective:** build two interconnected portals sharing the same Firestore database.
 - **Developer:** Antigravity AI
+
+### Screenshots
+![pic1](https://github.com/user-attachments/assets/52aa171c-7318-4a53-bbad-aec93b5d317c)
+
+![pic2](https://github.com/user-attachments/assets/58387e12-10aa-48e8-a3ff-4c36688873fb)
+
+![pic3](https://github.com/user-attachments/assets/d74d0053-ee48-4df2-b670-3a0a50c73db9)
+
+![pic4](https://github.com/user-attachments/assets/9ad729b8-0510-4c8f-b803-6c5cb896363c)
+
+![pic5](https://github.com/user-attachments/assets/167f6253-c90e-40ca-bd7c-e95f7cbd041d)
+
+
+
+
+
